@@ -20,5 +20,8 @@ Get started at http://fontawesome.io!
 - Full details: http://fontawesome.io/license
 
 
-## Versions
+## Available Versions/Tags
+- 4.1.0
+- 4.0.3
+
 If the version you are looking for is not available, create an issue and it will be added.
