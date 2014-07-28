@@ -22,6 +22,6 @@
     "fonts/fontawesome-webfont.ttf",
     "fonts/fontawesome-webfont.woff"
   ],
-  "name": "angular-ui-router-breadcrumbs",
+  "name": "font-awesome-bower",
   "version": "4.1.0"
 }
