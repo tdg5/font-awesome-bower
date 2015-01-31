@@ -3,8 +3,10 @@
 FontAwesome bower component with reduced footprint.
 
 ## FontAwesome
-[Font Awesome](http://fontawesome.io), the iconic font designed for Bootstrap, is a full suite of 369 pictographic icons for easy scalable vector graphics on websites, created and
-maintained by [Dave Gandy](http://twitter.com/davegandy). Stay up to date [@fontawesome](http://twitter.com/fontawesome).
+[Font Awesome](http://fontawesome.io), the iconic font designed for Bootstrap,
+is a full suite of 519 pictographic icons for easy scalable vector graphics on
+websites, created and maintained by [Dave Gandy](http://twitter.com/davegandy).
+Stay up to date [@fontawesome](http://twitter.com/fontawesome).
 
 Get started at http://fontawesome.io!
 
@@ -21,6 +23,7 @@ Get started at http://fontawesome.io!
 
 
 ## Available Versions/Tags
+- 4.3.0
 - 4.2.0
 - 4.1.0
 - 4.0.3
