@@ -1,10 +1,10 @@
 {
-  "authors": ["dev@intervalbraining.com"],
+  "authors": ["dev@tdg5.com"],
   "description": "Font-Awesome bower component with reduced footprint",
   "devDependencies": {
     "fontawesome": "~4.4.0"
   },
-  "homepage": "https://github.com/interval-braining/font-awesome-bower",
+  "homepage": "https://github.com/tdg5/font-awesome-bower",
   "ignore": [
     "**/.*",
     "bower_components"
