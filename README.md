@@ -23,6 +23,10 @@ Get started at http://fontawesome.io!
 
 
 ## Available Versions/Tags
+- 4.6.3
+- 4.6.2
+- 4.6.1
+- 4.6.0
 - 4.5.0
 - 4.4.0
 - 4.3.0
