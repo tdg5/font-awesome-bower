@@ -2,7 +2,7 @@
   "authors": ["dev@tdg5.com"],
   "description": "Font-Awesome bower component with reduced footprint",
   "devDependencies": {
-    "fontawesome": "4.6.3"
+    "fontawesome": "4.7.0"
   },
   "homepage": "https://github.com/tdg5/font-awesome-bower",
   "ignore": [
@@ -24,5 +24,5 @@
     "fonts/fontawesome-webfont.woff2"
   ],
   "name": "font-awesome-bower",
-  "version": "4.6.3"
+  "version": "4.7.0"
 }
